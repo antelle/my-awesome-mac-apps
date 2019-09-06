@@ -48,6 +48,7 @@ Contributions are not welcome.
 - [HexFeind](https://github.com/ridiculousfish/HexFiend) – A fast and clever hex editor for Mac OS X
 - [Hopper Disassembler](https://www.hopperapp.com) – The reverse engineering tool that lets you disassemble, decompile and debug your applications
 - [Wireshark](https://www.wireshark.org) – The world’s foremost and widely-used network protocol analyzer
+- [Proxyman](https://proxyman.io) – A modern and intuitive HTTP debugging proxy
 - [mitmproxy](https://mitmproxy.org) – A free and open source interactive HTTPS proxy
 
 ## Design
