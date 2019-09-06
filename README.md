@@ -23,7 +23,7 @@ This is not supposed to be a huge list, but you may find it useful. Big awesome 
 - [DaisyDisk](https://daisydiskapp.com) – Analyze disk usage and free up disk space on Mac
 - [KeeWeb](https://keeweb.info) – Free cross-platform password manager compatible with KeePass
 - [Transmission](https://transmissionbt.com) – A fast, easy, and free BitTorrent client
-- [VLC](https://www.videolan.org/vlc/) – free and open source cross-platform multimedia player and framework that plays most multimedia files
+- [VLC](https://www.videolan.org/vlc/) – Free and open source cross-platform multimedia player and framework that plays most multimedia files
 - [AppCleaner](https://freemacsoft.net/appcleaner/) – Small application which allows you to thoroughly uninstall unwanted apps
 
 ## Development
