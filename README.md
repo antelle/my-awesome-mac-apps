@@ -9,6 +9,8 @@ This is not supposed to be a huge list, but you may find it useful. Big awesome 
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 - [awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
 
+Contributions are not welcome.
+
 ## Utilities
 
 - [iStatMenus](https://bjango.com/mac/istatmenus/) – An advanced Mac system monitor for your menubar
