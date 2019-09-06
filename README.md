@@ -72,12 +72,12 @@ Contributions are not welcome.
 - [Notes](https://support.apple.com/guide/notes/welcome/mac)
 - [Reminders](https://support.apple.com/guide/reminders/welcome/mac)
 - [Calendar](https://support.apple.com/guide/calendar/welcome/mac)
-- [Photos](https://www.apple.com/lae/macos/photos/)
+- [Photos](https://www.apple.com/macos/photos/)
 - [Terminal](https://support.apple.com/guide/terminal/welcome/mac)
 - [Dictionary](https://support.apple.com/guide/dictionary/welcome/mac)
 - [Books](https://www.apple.com/apple-books/)
-- [Music](https://www.apple.com/lae/apple-music/)
-- [Numbers](https://www.apple.com/lae/numbers/)
+- [Music](https://www.apple.com/apple-music/)
+- [Numbers](https://www.apple.com/numbers/)
 
 ## License
 
