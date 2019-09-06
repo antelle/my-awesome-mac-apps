@@ -73,6 +73,7 @@ This is not supposed to be a huge list, but you may find it useful. Big awesome 
 - Dictionary
 - Books
 - Music
+- Numbers
 
 ## License
 
