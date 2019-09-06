@@ -30,6 +30,7 @@ This is not supposed to be a huge list, but you may find it useful. Big awesome 
 
 - [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) – The Java IDE for Professional Developers by JetBrains
 - [Visual Studio Code](https://code.visualstudio.com) – Code editing. Redefined.
+- [SourceTree](https://www.sourcetreeapp.com) – A free Git GUI for Mac and Windows
 - [Postman](https://www.getpostman.com) – API development environment
 - [SQLiteStudio](https://sqlitestudio.pl/) – SQLite database manager
 - [Sequel Pro](https://sequelpro.com) – MySQL/MariaDB database management for macOS
