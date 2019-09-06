@@ -34,7 +34,6 @@ Contributions are not welcome.
 - [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) – The Java IDE for Professional Developers by JetBrains
 - [Visual Studio Code](https://code.visualstudio.com) – Code editing. Redefined.
 - [XCode](https://developer.apple.com/xcode/) – Everything you need to create amazing apps
-- [Visual Studio](https://visualstudio.microsoft.com) – Best-in-class tools for any developer
 - [SourceTree](https://www.sourcetreeapp.com) – A free Git GUI for Mac and Windows
 - [Postman](https://www.getpostman.com) – API development environment
 - [SQLiteStudio](https://sqlitestudio.pl/) – SQLite database manager
