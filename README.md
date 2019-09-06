@@ -59,6 +59,21 @@ This is not supposed to be a huge list, but you may find it useful. Big awesome 
 - [AdBlock](https://getadblock.com) — Surf the web without annoying pop ups and ads
 - [Ghostery](https://www.ghostery.com) — Makes the Web Cleaner, Faster and Safer
 
+## Apple
+
+- Finder
+- Mail
+- Safari
+- Spotlight
+- Notes
+- Reminders
+- Calendar
+- Photos
+- Terminal
+- Dictionary
+- Books
+- Music
+
 ## License
 
 [![Creative Commons License](https://licensebuttons.net/l/publicdomain/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
