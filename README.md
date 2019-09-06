@@ -15,16 +15,16 @@ This is not supposed to be a huge list, but you may find it useful. Big awesome 
 - [Bartender](https://www.macbartender.com) – Organize your menu bar icons
 - [Parcel](https://parcelapp.net) – All Deliveries in One Place
 - [The Unarchiver](https://macpaw.com/the-unarchiver) – Unpack any archive, in no time
+- [AppCleaner](https://freemacsoft.net/appcleaner/) – Small application which allows you to thoroughly uninstall unwanted apps
 - [Keka](https://www.keka.io/) – The macOS file archiver
+- [DaisyDisk](https://daisydiskapp.com) – Analyze disk usage and free up disk space on Mac
 - [GPG Suite](https://gpgtools.org) – One simple package with everything you need, to protect your emails and files
 - [EnvPane](https://github.com/hschmidt/EnvPane) – An OS X preference pane for environment variables
-- [TaskExplorer](https://objective-see.com/products/taskexplorer.html) – Explore all the tasks (processes) running on your Mac
-- [KnockKnock](https://objective-see.com/products/knockknock.html) – See what's persistently installed on your Mac
-- [DaisyDisk](https://daisydiskapp.com) – Analyze disk usage and free up disk space on Mac
 - [KeeWeb](https://keeweb.info) – Free cross-platform password manager compatible with KeePass
 - [Transmission](https://transmissionbt.com) – A fast, easy, and free BitTorrent client
 - [VLC](https://www.videolan.org/vlc/) – Free and open source cross-platform multimedia player and framework that plays most multimedia files
-- [AppCleaner](https://freemacsoft.net/appcleaner/) – Small application which allows you to thoroughly uninstall unwanted apps
+- [TaskExplorer](https://objective-see.com/products/taskexplorer.html) – Explore all the tasks (processes) running on your Mac
+- [KnockKnock](https://objective-see.com/products/knockknock.html) – See what's persistently installed on your Mac
 
 ## Development
 
