@@ -23,6 +23,7 @@ This is not supposed to be a huge list, but you may find it useful. Big awesome 
 - [KeeWeb](https://keeweb.info) – Free cross-platform password manager compatible with KeePass
 - [Transmission](https://transmissionbt.com) – A fast, easy, and free BitTorrent client
 - [VLC](https://www.videolan.org/vlc/) – Free and open source cross-platform multimedia player and framework that plays most multimedia files
+- [Skype](https://www.skype.com) – Communication tool for free calls and chat
 - [TaskExplorer](https://objective-see.com/products/taskexplorer.html) – Explore all the tasks (processes) running on your Mac
 - [KnockKnock](https://objective-see.com/products/knockknock.html) – See what's persistently installed on your Mac
 
