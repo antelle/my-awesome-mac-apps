@@ -62,22 +62,6 @@ Contributions are not welcome.
 - [AdBlock](https://getadblock.com) — Surf the web without annoying pop ups and ads
 - [Ghostery](https://www.ghostery.com) — Makes the Web Cleaner, Faster and Safer
 
-## Apple
-
-- [Finder](https://support.apple.com/en-us/HT201732)
-- [Mail](https://support.apple.com/en-us/HT204093)
-- [Safari](https://www.apple.com/safari/)
-- [Spotlight](https://support.apple.com/en-us/HT204014)
-- [Notes](https://support.apple.com/guide/notes/welcome/mac)
-- [Reminders](https://support.apple.com/guide/reminders/welcome/mac)
-- [Calendar](https://support.apple.com/guide/calendar/welcome/mac)
-- [Photos](https://www.apple.com/macos/photos/)
-- [Terminal](https://support.apple.com/guide/terminal/welcome/mac)
-- [Dictionary](https://support.apple.com/guide/dictionary/welcome/mac)
-- [Books](https://www.apple.com/apple-books/)
-- [Music](https://www.apple.com/apple-music/)
-- [Numbers](https://www.apple.com/numbers/)
-
 ## License
 
 [![Creative Commons License](https://licensebuttons.net/l/publicdomain/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
