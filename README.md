@@ -15,7 +15,6 @@ Contributions are not welcome.
 
 - [iStatMenus](https://bjango.com/mac/istatmenus/) – An advanced Mac system monitor for your menubar
 - [Bartender](https://www.macbartender.com) – Organize your menu bar icons
-- [Parcel](https://parcelapp.net) – All Deliveries in One Place
 - [The Unarchiver](https://macpaw.com/the-unarchiver) – Unpack any archive, in no time
 - [AppCleaner](https://freemacsoft.net/appcleaner/) – Small application which allows you to thoroughly uninstall unwanted apps
 - [Keka](https://www.keka.io/) – The macOS file archiver
@@ -26,6 +25,7 @@ Contributions are not welcome.
 - [Transmission](https://transmissionbt.com) – A fast, easy, and free BitTorrent client
 - [VLC](https://www.videolan.org/vlc/) – Free and open source cross-platform multimedia player and framework that plays most multimedia files
 - [Skype](https://www.skype.com) – Communication tool for free calls and chat
+- [Parcel](https://parcelapp.net) – All Deliveries in One Place
 - [KnockKnock](https://objective-see.com/products/knockknock.html) – See what's persistently installed on your Mac
 
 ## Development
