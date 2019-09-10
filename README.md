@@ -60,6 +60,7 @@ Contributions are not welcome.
 
 - [AdBlock](https://getadblock.com) — Surf the web without annoying pop ups and ads
 - [Ghostery](https://www.ghostery.com) — Makes the Web Cleaner, Faster and Safer
+- [PageExtender](https://github.com/fphilipe/PageExtender.app) — Safari extension that injects custom CSS and JS files based on page host
 
 ## License
 
