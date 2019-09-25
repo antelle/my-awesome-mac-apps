@@ -48,7 +48,7 @@ Contributions are not welcome.
 - [Wireshark](https://www.wireshark.org) – The world’s foremost and widely-used network protocol analyzer
 - [Proxyman](https://proxyman.io) – A modern and intuitive HTTP debugging proxy
 - [mitmproxy](https://mitmproxy.org) – A free and open source interactive HTTPS proxy
-- [DevDocs](https://github.com/dteoh/devdocs-macos) – An unofficial DevDocs API Documentation viewer for macOS
+- [DevDocs for macOS](https://github.com/dteoh/devdocs-macos) – An unofficial DevDocs API Documentation viewer for macOS
 
 ## Design
 
