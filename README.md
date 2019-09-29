@@ -67,4 +67,4 @@ Contributions are not welcome.
 
 [![Creative Commons License](https://licensebuttons.net/l/publicdomain/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This work is licensed under a [CC0 1.0 Universal License](http://creativecommons.org/publicdomain/zero/1.0/).
+This work is licensed under a [CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
