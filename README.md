@@ -20,7 +20,6 @@ Contributions are not welcome.
 - [Keka](https://www.keka.io/) – The macOS file archiver
 - [DaisyDisk](https://daisydiskapp.com) – Analyze disk usage and free up disk space on Mac
 - [GPG Suite](https://gpgtools.org) – One simple package with everything you need, to protect your emails and files
-- [EnvPane](https://github.com/hschmidt/EnvPane) – An OS X preference pane for environment variables
 - [KeeWeb](https://keeweb.info) – Free cross-platform password manager compatible with KeePass
 - [Transmission](https://transmissionbt.com) – A fast, easy, and free BitTorrent client
 - [VLC](https://www.videolan.org/vlc/) – Free and open source cross-platform multimedia player and framework that plays most multimedia files
