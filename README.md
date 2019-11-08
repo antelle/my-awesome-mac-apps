@@ -35,7 +35,7 @@ Contributions are not welcome.
 - [SourceTree](https://www.sourcetreeapp.com) – A free Git GUI for Mac and Windows
 - [Postman](https://www.getpostman.com) – API development environment
 - [SQLiteStudio](https://sqlitestudio.pl/) – SQLite database manager
-- [Sequel Pro](https://sequelpro.com) – MySQL/MariaDB database management for macOS
+- [TablePlus](https://tableplus.com) – Modern, native, and friendly GUI tool for relational databases
 - [MDB / ACCDB Viewer](https://eggerapps.at/mdbviewer/) – Open Microsoft Access Databases on your Mac
 - [TableTool](https://github.com/jakob/TableTool) – A simple CSV editor for the Mac
 - [P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge) – Visual Code Merge Tool and Diff Tool for Designers and Developers Alike
