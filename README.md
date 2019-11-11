@@ -34,7 +34,6 @@ Contributions are not welcome.
 - [XCode](https://developer.apple.com/xcode/) – Everything you need to create amazing apps
 - [SourceTree](https://www.sourcetreeapp.com) – A free Git GUI for Mac and Windows
 - [Postman](https://www.getpostman.com) – API development environment
-- [SQLiteStudio](https://sqlitestudio.pl/) – SQLite database manager
 - [MDB / ACCDB Viewer](https://eggerapps.at/mdbviewer/) – Open Microsoft Access Databases on your Mac
 - [TableTool](https://github.com/jakob/TableTool) – A simple CSV editor for the Mac
 - [P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge) – Visual Code Merge Tool and Diff Tool for Designers and Developers Alike
