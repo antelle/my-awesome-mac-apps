@@ -44,12 +44,10 @@ Contributions are not welcome.
 - [Hopper Disassembler](https://www.hopperapp.com) – The reverse engineering tool that lets you disassemble, decompile and debug your applications
 - [Wireshark](https://www.wireshark.org) – The world’s foremost and widely-used network protocol analyzer
 - [Proxyman](https://proxyman.io) – A modern and intuitive HTTP debugging proxy
-- [DevDocs for macOS](https://github.com/dteoh/devdocs-macos) – An unofficial DevDocs API Documentation viewer for macOS
 
 ## Design
 
 - [Pixelmator Pro](https://www.pixelmator.com) – Professional image editing tools that anyone can use
-- [Skala Color](https://bjango.com/mac/skalacolor/) – An extraordinary color picker for designers and developers
 - [Image Alpha](https://pngmini.com) – Image minifier
 - [Image Optim](https://imageoptim.com/mac) – Makes images load faster
 
@@ -57,7 +55,6 @@ Contributions are not welcome.
 
 - [AdBlock](https://getadblock.com) — Surf the web without annoying pop ups and ads
 - [Ghostery](https://www.ghostery.com) — Makes the Web Cleaner, Faster and Safer
-- [PageExtender](https://github.com/fphilipe/PageExtender.app) — Safari extension that injects custom CSS and JS files based on page host
 
 ## License
 
