@@ -23,6 +23,7 @@ Contributions are not welcome.
 - [Transmission](https://transmissionbt.com) – A fast, easy, and free BitTorrent client
 - [VLC](https://www.videolan.org/vlc/) – Free and open source cross-platform multimedia player and framework that plays most multimedia files
 - [Skype](https://www.skype.com) – Communication tool for free calls and chat
+- [GPG Suite](https://gpgtools.org/) - One simple package with everything you need, to protect your emails and files
 - [Parcel](https://parcelapp.net) – All Deliveries in One Place
 - [KnockKnock](https://objective-see.com/products/knockknock.html) – See what's persistently installed on your Mac
 
