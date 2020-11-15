@@ -26,6 +26,7 @@ Contributions are not welcome.
 - [GPG Suite](https://gpgtools.org/) - One simple package with everything you need, to protect your emails and files
 - [Parcel](https://parcelapp.net) – All Deliveries in One Place
 - [KnockKnock](https://objective-see.com/products/knockknock.html) – See what's persistently installed on your Mac
+- [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards
 
 ## Development
 
