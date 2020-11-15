@@ -27,6 +27,7 @@ Contributions are not welcome.
 - [Parcel](https://parcelapp.net) – All Deliveries in One Place
 - [KnockKnock](https://objective-see.com/products/knockknock.html) – See what's persistently installed on your Mac
 - [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards
+- [KayCastr](https://github.com/keycastr/keycastr) - An open-source keystroke visualizer
 
 ## Development
 
