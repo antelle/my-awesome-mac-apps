@@ -50,6 +50,7 @@ Contributions are not welcome.
 ## Design
 
 - [Pixelmator Pro](https://www.pixelmator.com) – Professional image editing tools that anyone can use
+- [Adobe XD](https://www.adobe.com/products/xd.html) – UI/UX design and collaboration tool
 - [Image Alpha](https://pngmini.com) – Image minifier
 - [Image Optim](https://imageoptim.com/mac) – Makes images load faster
 
