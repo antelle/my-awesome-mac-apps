@@ -59,9 +59,9 @@ This is not supposed to be a huge list, but you may find it useful. Big awesome 
 
 ## Browser
 
-- [AdBlock](https://getadblock.com) — Surf the web without annoying pop ups and ads
-- [Ghostery](https://www.ghostery.com) — Makes the Web Cleaner, Faster and Safer
-- [BookMacster](https://www.sheepsystems.com/products/bookmacster.html) — Bookmarks Manager
+- [AdBlock](https://getadblock.com) – Surf the web without annoying pop ups and ads
+- [Ghostery](https://www.ghostery.com) – Makes the Web Cleaner, Faster and Safer
+- [BookMacster](https://www.sheepsystems.com/products/bookmacster.html) – Bookmarks Manager
 
 ## License
 
