@@ -9,7 +9,11 @@ This is not supposed to be a huge list, but you may find it useful. Big awesome 
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 - [awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
 
-Contributions are not welcome.
+## Rules
+
+- no apps that I don't use
+- no apps that I don't love
+- contributions are not welcome, it's a personal list
 
 ## Utilities
 
@@ -57,6 +61,7 @@ Contributions are not welcome.
 
 - [AdBlock](https://getadblock.com) — Surf the web without annoying pop ups and ads
 - [Ghostery](https://www.ghostery.com) — Makes the Web Cleaner, Faster and Safer
+- [BookMacster](https://www.sheepsystems.com/products/bookmacster.html) — Bookmarks Manager
 
 ## License
 
