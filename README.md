@@ -55,7 +55,6 @@ This is not supposed to be a huge list, but you may find it useful. Big awesome 
 
 - [Pixelmator Pro](https://www.pixelmator.com) – Professional image editing tools that anyone can use
 - [Adobe XD](https://www.adobe.com/products/xd.html) – UI/UX design and collaboration tool
-- [Image Optim](https://imageoptim.com/mac) – Makes images load faster
 
 ## Browser
 
