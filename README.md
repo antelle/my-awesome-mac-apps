@@ -84,7 +84,7 @@ I use different browsers and don't love any of them. So they're not in this list
 
 - [AdBlock](https://getadblock.com) – Surf the web without annoying pop ups and ads
 - [Ghostery](https://www.ghostery.com) – Makes the Web Cleaner, Faster and Safer
-- [BookMacster](https://www.sheepsystems.com/products/bookmacster.html) – Bookmarks Manager
+- [BookMacster](https://www.sheepsystems.com/products/bookmacster.html) – Bookmarks manager
 
 ## License
 
