@@ -33,20 +33,6 @@ This is not supposed to be a huge list, but you may find it useful. Big awesome 
 - [Anki](https://apps.ankiweb.net/) – Powerful, intelligent flash cards
 - [KayCastr](https://github.com/keycastr/keycastr) – An open-source keystroke visualizer
 
-## Apple
-
-- [Apple Notes](https://support.apple.com/guide/notes) – Jot down a quick thought — add a photo, video, URL, or table — for later
-- [Apple Reminders](https://support.apple.com/guide/reminders) – Create lists for to-dos, projects, groceries, and anything else you need to track
-- [Apple Mail](https://support.apple.com/guide/mail) – Manage all your emails in one place
-- [Apple Calendar](https://support.apple.com/guide/calendar) – Track meetings, events, and appointments in one place
-- [Apple Photos](https://www.apple.com/macos/photos) – Import, view, and organize your photos and videos
-- [Apple Books](https://support.apple.com/guide/books) – Get and read classics and bestsellers, listen to audiobooks, or study textbooks
-- [Apple Dictionary](https://support.apple.com/guide/dictionary) – Look up words in dictionaries and other sources
-- [Apple Music](https://support.apple.com/guide/music) – Listen to your music library and discover new artists
-- [Apple Preview](https://support.apple.com/guide/preview) – View and edit PDFs and images, import images, and take pictures of the screen
-- [Apple Terminal](https://support.apple.com/guide/terminal) – Access the complete UNIX operating system in macOS
-- [Apple Digital Color Meter](https://support.apple.com/guide/digital-color-meter) – Find the color value of any color on the display
-
 ## Development
 
 - [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) – The Java IDE for Professional Developers by JetBrains
@@ -69,6 +55,20 @@ This is not supposed to be a huge list, but you may find it useful. Big awesome 
 
 - [Pixelmator Pro](https://www.pixelmator.com) – Professional image editing tools that anyone can use
 - [Adobe XD](https://www.adobe.com/products/xd.html) – UI/UX design and collaboration tool
+
+## Apple
+
+- [Apple Notes](https://support.apple.com/guide/notes) – Jot down a quick thought — add a photo, video, URL, or table — for later
+- [Apple Reminders](https://support.apple.com/guide/reminders) – Create lists for to-dos, projects, groceries, and anything else you need to track
+- [Apple Mail](https://support.apple.com/guide/mail) – Manage all your emails in one place
+- [Apple Calendar](https://support.apple.com/guide/calendar) – Track meetings, events, and appointments in one place
+- [Apple Photos](https://www.apple.com/macos/photos) – Import, view, and organize your photos and videos
+- [Apple Books](https://support.apple.com/guide/books) – Get and read classics and bestsellers, listen to audiobooks, or study textbooks
+- [Apple Dictionary](https://support.apple.com/guide/dictionary) – Look up words in dictionaries and other sources
+- [Apple Music](https://support.apple.com/guide/music) – Listen to your music library and discover new artists
+- [Apple Preview](https://support.apple.com/guide/preview) – View and edit PDFs and images, import images, and take pictures of the screen
+- [Apple Terminal](https://support.apple.com/guide/terminal) – Access the complete UNIX operating system in macOS
+- [Apple Digital Color Meter](https://support.apple.com/guide/digital-color-meter) – Find the color value of any color on the display
 
 ## Browser
 
