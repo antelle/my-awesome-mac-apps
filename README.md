@@ -17,6 +17,8 @@ This is not supposed to be a huge list, but you may find it useful. Big awesome 
 
 ## Utilities
 
+Here are diverse apps without any specific audience.
+
 - [iStatMenus](https://bjango.com/mac/istatmenus/) – An advanced Mac system monitor for your menubar
 - [Bartender](https://www.macbartender.com) – Organize your menu bar icons
 - [The Unarchiver](https://macpaw.com/the-unarchiver) – Unpack any archive, in no time
@@ -34,6 +36,8 @@ This is not supposed to be a huge list, but you may find it useful. Big awesome 
 - [KayCastr](https://github.com/keycastr/keycastr) – An open-source keystroke visualizer
 
 ## Development
+
+Command-line utilities are not listed here.
 
 - [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) – The Java IDE for Professional Developers by JetBrains
 - [Visual Studio Code](https://code.visualstudio.com) – Code editing. Redefined.
@@ -53,10 +57,14 @@ This is not supposed to be a huge list, but you may find it useful. Big awesome 
 
 ## Design
 
+I don't do much design, so I prefer simple and intuitive apps without paid subscriptions.
+
 - [Pixelmator Pro](https://www.pixelmator.com) – Professional image editing tools that anyone can use
 - [Adobe XD](https://www.adobe.com/products/xd.html) – UI/UX design and collaboration tool
 
 ## Apple
+
+Apple's own productivity tools are often underrated, however they're best in its sort and free (well, included in Mac prices).
 
 - [Apple Notes](https://support.apple.com/guide/notes) – Jot down a quick thought — add a photo, video, URL, or table — for later
 - [Apple Reminders](https://support.apple.com/guide/reminders) – Create lists for to-dos, projects, groceries, and anything else you need to track
@@ -71,6 +79,8 @@ This is not supposed to be a huge list, but you may find it useful. Big awesome 
 - [Apple Digital Color Meter](https://support.apple.com/guide/digital-color-meter) – Find the color value of any color on the display
 
 ## Browser
+
+I use different browsers and don't love any of them. So they're not in this list.
 
 - [AdBlock](https://getadblock.com) – Surf the web without annoying pop ups and ads
 - [Ghostery](https://www.ghostery.com) – Makes the Web Cleaner, Faster and Safer
