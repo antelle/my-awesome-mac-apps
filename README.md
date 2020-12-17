@@ -64,7 +64,7 @@ I don't do much design, so I prefer simple and intuitive apps without paid subsc
 
 ## Apple
 
-Apple's own productivity tools are often underrated, however they're best in its sort and free (well, included in Mac prices).
+Apple's own productivity tools are often underrated, however they're best in their sort and free (well, included in Mac prices).
 
 - [Apple Notes](https://support.apple.com/guide/notes) – Jot down a quick thought — add a photo, video, URL, or table — for later
 - [Apple Reminders](https://support.apple.com/guide/reminders) – Create lists for to-dos, projects, groceries, and anything else you need to track
