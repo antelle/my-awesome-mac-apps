@@ -46,7 +46,6 @@ Command-line utilities are not listed here.
 - [Postman](https://www.getpostman.com) – API development environment
 - [MDB / ACCDB Viewer](https://eggerapps.at/mdbviewer/) – Open Microsoft Access Databases on your Mac
 - [TableTool](https://github.com/jakob/TableTool) – A simple CSV editor for the Mac
-- [P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge) – Visual Code Merge Tool and Diff Tool for Designers and Developers Alike
 - [VirtualBox](https://www.virtualbox.org) – Powerful x86 and AMD64/Intel64 virtualization product
 - [Cyberduck](https://cyberduck.io) – A libre server and cloud storage browser
 - [Bit Slicer](https://github.com/zorgiepoo/bit-slicer/) – Universal game trainer for macOS
